@@ -14,7 +14,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/manashinde16/brainwave-landing-page.git
-cd brainwave
+cd brainwave-landing-page
 ```
 
 **Installation**
